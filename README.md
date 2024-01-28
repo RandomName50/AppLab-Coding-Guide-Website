@@ -8,4 +8,4 @@ However, if you would like direct help or contact **_regarding the website_** fo
 - This Email Address: therealrandomcoder@gmail.com
 
 ### Licenses
-This is an open-source website created by an IB student as part of their CAS experience.
+This is an open-source website created by me (an IB student) as part of their CAS experience and just a personal side project of mine as well.
