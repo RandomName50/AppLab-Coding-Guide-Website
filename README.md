@@ -7,3 +7,5 @@ If you find a bug or a way to optimize the website's structure, please submit **
 However, if you would like direct help or contact **_regarding the website_** for a quicker response, you can contact me @ 
 - This Email Address: therealrandomcoder@gmail.com
 
+### Licenses
+This is an open-source website created by an IB student as part of their CAS experience.
